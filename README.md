@@ -1,6 +1,6 @@
 
 # ender2pro-raspberrypi
-# Rasbperry Pi Case for the Ender 2 Pro
+# Rasbpberry Pi Case for the Ender 2 Pro
 
 A simple case to mount a rasbperry pi behind the screen of an ender 2 pro
 Tested with Raspberry Pi 3B+. Should also work with Raspberry Pi 4
