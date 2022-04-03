@@ -23,10 +23,11 @@ license:
   owner: Spencer Owen
   year: 2022
 resources:
+  printer: https://www.creality.com/goods-detail/creality-ender-2-pro-3d-printer
 fusion_link: https://a360.co/38oL8Z0
 links:
   # Thingiverse: https://www.thingiverse.com/thing:xxxx
-  # Prusa: https://foo.com
+  # Printables: https://foo.com
   # GrabCad: https://foo.com
   # Hackster.io: https://hackster.io/foo
   # Hackaday: https://hackaday.io/foo

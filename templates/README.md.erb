@@ -29,9 +29,11 @@
 | [<%= file  %>](./<%= url_encode(file) %>) | ![](./<%= url_encode(file.split('.stl')[-1]) %>.png) | ![](./<%= url_encode(file.split('.stl')[-1]) %>.gif) | 
 <% end -%>
 
+<% if settings['resources'] %>
 ## :notebook: Resources
 <% settings['resources'].each do |key, value| -%>
 - [<%= key %>](<%= value %>)
+<% end -%>
 <% end -%>
 
 ## :camera: Photos
