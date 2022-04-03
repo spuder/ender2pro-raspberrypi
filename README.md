@@ -24,6 +24,8 @@ Features
 **Autodesk Fusion 360 file**: [https://a360.co/38oL8Z0](https://a360.co/38oL8Z0)
 
 
+- **Printables**: [https://www.printables.com/model/161098-ender-2-pro-raspberry-pi-case](https://www.printables.com/model/161098-ender-2-pro-raspberry-pi-case)
+
 ## :triangular_ruler: CAD files
 
 3d files are located in the [CAD](./CAD) directory.
