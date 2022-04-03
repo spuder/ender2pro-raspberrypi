@@ -1,26 +1,35 @@
 ---
-name: Changeme
+name: ender2pro-raspberrypi
 description: |
-  To change this file, modify settings.yaml and templates/README.md, then run 
-  ```
-  git submodule update -init
-  make all
-  ```
+  # Rasbperry Pi Case for the Ender 2 Pro
 
-  **Do not edit README.md directly as it will be overwritten..**
+  A simple case to mount a rasbperry pi behind the screen of an ender 2 pro
+  Tested with Raspberry Pi 3B+. Should also work with Raspberry Pi 4
+
+  Features
+  - Cut outs for ribbon cable for pi camera
+  - Cut outs for usb cables
+  - Easy access to SD Card Camera
+  - Zip Tie mounts
+  
+
+  ## Installation
+  - Remove the 4 M3 screws holding on the back plate
+  - Add raspberry pi with 2-4 M3x4 or M3x6 screws
+  
+
 license: 
-  type: undef # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
+  type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
   year: 2022
 resources:
-  foo: https://example.com
-fusion_link: https://autodesk.example.com #comment out if no fusion link
+fusion_link: https://a360.co/38oL8Z0
 links:
-  Thingiverse: https://www.thingiverse.com/thing:xxxx
-  Prusa: https://foo.com
-  GrabCad: https://foo.com
-  Hackster.io: https://hackster.io/foo
-  Hackaday: https://hackaday.io/foo
-  Reddit: https://www.reddit.com/r/foo
-  Github: https://github.com/foo
-  Blog: https://foo.com
+  # Thingiverse: https://www.thingiverse.com/thing:xxxx
+  # Prusa: https://foo.com
+  # GrabCad: https://foo.com
+  # Hackster.io: https://hackster.io/foo
+  # Hackaday: https://hackaday.io/foo
+  # Reddit: https://www.reddit.com/r/foo
+  # Github: https://github.com/foo
+  # Blog: https://foo.com

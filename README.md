@@ -1,12 +1,6 @@
 
-# Changeme
-To change this file, modify settings.yaml and templates/README.md, then run 
-```
-git submodule update -init
-make all
-```
-
-**Do not edit README.md directly as it will be overwritten..**
+# ender2pro-raspberrypi
+Rasbperry Pi Case for the Ender 2 Pro
 
 
 
@@ -16,15 +10,6 @@ make all
 **Autodesk Fusion 360 file**: [https://autodesk.example.com](https://autodesk.example.com)
 
 
-- **Thingiverse**: [https://www.thingiverse.com/thing:xxxx](https://www.thingiverse.com/thing:xxxx)
-- **Prusa**: [https://foo.com](https://foo.com)
-- **GrabCad**: [https://foo.com](https://foo.com)
-- **Hackster.io**: [https://hackster.io/foo](https://hackster.io/foo)
-- **Hackaday**: [https://hackaday.io/foo](https://hackaday.io/foo)
-- **Reddit**: [https://www.reddit.com/r/foo](https://www.reddit.com/r/foo)
-- **Github**: [https://github.com/foo](https://github.com/foo)
-- **Blog**: [https://foo.com](https://foo.com)
-
 ## :triangular_ruler: CAD files
 
 3d files are located in the [CAD](./CAD) directory.
@@ -33,24 +18,25 @@ make all
 
 | Filename | STL | GIF | 
 | --- | --- | --- | 
-| [CAD/cube.stl](./CAD%2Fcube.stl) | ![](./CAD%2Fcube.png) | ![](./CAD%2Fcube.gif) | 
-| [CAD/sphere.stl](./CAD%2Fsphere.stl) | ![](./CAD%2Fsphere.png) | ![](./CAD%2Fsphere.gif) | 
 
 ## :notebook: Resources
 - [foo](https://example.com)
 
 ## :camera: Photos
-![](photos%2Ffoo.jpg)
-![](photos%2Fbar.jpg)
+![](photos%2Fcropped)
 
 ---
 
-:warning: License missing. Please modify settings.yaml with desired license
-e.g: 
-```
-license: 
-  type: CC-Attribution
-```
+## Creative Commons License-'Attribution'
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+|  |  | 
+|---|---|
+| :white_check_mark: | Share / Redistribute | 
+| :x: | Sharing without ATTRIBUTION |
+| :white_check_mark: | Remix allowed | 
+| :white_check_mark: | Share Remixes | 
+| :white_check_mark: | Commercial Use | 
+| :white_check_mark: | Share remixes under new license | 
 
 
 ---
