@@ -1,6 +1,6 @@
 
 # ender2pro-raspberrypi
-# Rasbpberry Pi Case for the Ender 2 Pro
+# Raspberry Pi Case for the Ender 2 Pro
 
 A simple case to mount a rasbperry pi behind the screen of an ender 2 pro
 Tested with Raspberry Pi 3B+. Should also work with Raspberry Pi 4
@@ -42,9 +42,15 @@ Features
 - [printer](https://www.creality.com/goods-detail/creality-ender-2-pro-3d-printer)
 
 ## :camera: Photos
+![](photos%2FIMG_2970.jpeg)
+![](photos%2FIMG_2967.jpeg)
+![](photos%2FIMG_2974.jpeg)
 ![](photos%2FLCD_2022-Apr-02_03-31-02AM-000_CustomizedView1616716945.png)
+![](photos%2FIMG_2972.jpeg)
+![](photos%2FIMG_2968.jpeg)
 ![](photos%2Fcropped)
 ![](photos%2FLCD_2022-Apr-02_03-30-14AM-000_CustomizedView4384384350.png)
+![](photos%2FIMG_2969.jpeg)
 
 ---
 
