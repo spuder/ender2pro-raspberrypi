@@ -34,23 +34,23 @@ Features
 
 | Filename | STL | GIF | 
 | --- | --- | --- | 
-| [CAD/Shroud.stl](./CAD%2FShroud.stl) | ![](./CAD%2FShroud.png) | ![](./CAD%2FShroud.gif) | 
 | [CAD/Front.stl](./CAD%2FFront.stl) | ![](./CAD%2FFront.png) | ![](./CAD%2FFront.gif) | 
+| [CAD/Shroud.stl](./CAD%2FShroud.stl) | ![](./CAD%2FShroud.png) | ![](./CAD%2FShroud.gif) | 
 
 
 ## :notebook: Resources
 - [printer](https://www.creality.com/goods-detail/creality-ender-2-pro-3d-printer)
 
 ## :camera: Photos
-![](photos%2FIMG_2970.jpeg)
 ![](photos%2FIMG_2967.jpeg)
-![](photos%2FIMG_2974.jpeg)
-![](photos%2FLCD_2022-Apr-02_03-31-02AM-000_CustomizedView1616716945.png)
-![](photos%2FIMG_2972.jpeg)
 ![](photos%2FIMG_2968.jpeg)
-![](photos%2Fcropped)
-![](photos%2FLCD_2022-Apr-02_03-30-14AM-000_CustomizedView4384384350.png)
 ![](photos%2FIMG_2969.jpeg)
+![](photos%2FIMG_2970.jpeg)
+![](photos%2FIMG_2972.jpeg)
+![](photos%2FIMG_2974.jpeg)
+![](photos%2FLCD_2022-Apr-02_03-30-14AM-000_CustomizedView4384384350.png)
+![](photos%2FLCD_2022-Apr-02_03-31-02AM-000_CustomizedView1616716945.png)
+![](photos%2Fcropped)
 
 ---
 
